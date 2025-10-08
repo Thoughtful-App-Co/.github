@@ -7,7 +7,7 @@ We're an open contribution venture studio on a mission to create applications th
 ### Our Mission
 - Build apps that solve real problems without creating new dependencies
 - Leverage community wisdom through hackathons and open collaboration
-- Fund development through transparent community rounds
+- Fund development that encourage buy-in and focus to progress transparent community rounds
 - Make technology more humane and less addictive
 
 ### How We Work
