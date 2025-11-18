@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Mission-Technology%20That%20Serves-brightgreen" alt="Mission Badge"/>
-  <img src="https://img.shields.io/badge/Open%20Source-100%25-blue" alt="Open Source Badge"/>
+  <img src="https://img.shields.io/badge/Open%20Contribution-100%25-blue" alt="Open Contribution Badge"/>
   <img src="https://img.shields.io/badge/Community-Driven-orange" alt="Community Badge"/>
 </div>
 
