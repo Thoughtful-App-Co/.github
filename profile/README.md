@@ -10,16 +10,27 @@
 
 We're an open contribution venture studio creating applications that respect your time, attention, and autonomy. Technology should enhance life, not hijack it. Our intent is to use this next sesmic shift in code mechanis propelled by LLM code agents to take back 
 
-### 🎯 Our Mission
-
-- **Respectful Design**: Build apps that solve problems
-- **Phone As a Server**: Building for future, low screen time approaches. Using wearables (haptics, audio, "dumb" screens) and notifictions on phone to give you more time 
-- **The New Bundle**: Big tech loves creating bundles, we will bundle all Thoughful Apps into a marketing package similar to thier models (pick one, three, all apps etc).
-- **Transparent Funding**: Will strive to give contributers access to community rounds for each company with full visibility
-- **New Hiring Models**: Using hackathons, open-source and more grass roots approach, find mission motiavted individuals to ensure these projects are successful.
-- **Humane Technology**: Put human wellbeing before engagement metrics
-- **Incentivize the Open-Source Concept**: General communities are not incentivized outside of the greater good. Our venture studio beleives in incentivized community participation.
-- **Adopt Local-First Principles When Possible**: Like most for-profit companies, we will not state being local-first in all 7 tenents but will strive to approach the full monty when plausible.
+### TACo Mission Statement
+| Philosophy | Mission/Goal | Description |
+|------------|--------------|-------------|
+| **Design Philosophy** | For Human Good | Build and product roadmap dedicated to augmenting natural realities and subverting damage from profit-driven lifestyle applications |
+| | Anti-Hero Application Patterns | Weaponize "negative" or dark patterns for good; applications should help basic human psychology and respect individual's "true nature" |
+| | Simple & Artistic Design | Design influenced by UX/UI best practices while respecting the art of design |
+| | Phone As a Server | Phone serves the individual rather than absorbing them; moonshots include wearables (haptics, audio, "dumb" screens) and notifications to increase reality time |
+| **Business Philosophy** | The New Bundle | Marketplace allowing individuals to pick up and drop apps, countering anti-competitive bundles (Adobe/Microsoft) |
+| | Build for Blue Oceans | Always seek new ideas serving market needs based on intrinsic value (not investor dollar value) |
+| | Alpha to Omega App Cycles | Apps serve their purpose then phase out; embrace natural lifecycle |
+| | Alpha to Omega Growth | Believe in natural life and death of companies rather than endless growth |
+| **Technology Philosophy** | Adopt Local First Principles | Enable local-first principles for data custody |
+| | Open to Close(ish) Source | May maintain select open-source elements based on strategic considerations |
+| **Community Philosophy** | Transparent Funding | Explore community participation opportunities and compensation models that align with project goals |
+| | New Hiring Models | May leverage various talent discovery methods including hackathons and open-source contributions |
+| | Incentivize Open-Source Concept | Explore incentive models for community participation as deemed beneficial |
+| **Governance Philosophy** | Intellectual Property | TACo retains discretion over IP ownership, licensing, and attribution models for all projects and contributions |
+| | Contributor Agreements | Participation terms determined on per-project basis, with appropriate agreements as necessary |
+| | Revenue Sharing | Compensation and revenue models structured at company discretion to ensure sustainability |
+| | Platform Governance | Marketplace rules, app acceptance, and removal policies determined by TACo leadership |
+| | Data Rights | While supporting local-first principles, TACo maintains necessary rights to operational and aggregate data |
 
 ### 🚀 Current Projects
 
@@ -32,13 +43,22 @@ We're an open contribution venture studio creating applications that respect you
 - 🎉 Join our [Monthly Hackathons](https://github.com/thoughtful-app-company/hackathon-hub)
 - 💬 Join our [Discussions](https://github.com/orgs/thoughtful-app-company/discussions)
 
-### Our Plam
-- Phased approaches to tackle related mental health and digital footprints based on human issues.
-- **Now**: ADHD (Relationships + Productivity) || Empowered to Act (Legal)
-- **Next**: Community Resources and Outreach || Mental Health + Digital Wellbeing
-- **Later**: Health and Wellness || Human Resource and Recruiting || Dating
-- **Moonshots**: Data Custody || Adapting/Morphing Data Structures || Audio Recording Software
-- **Internal**: LiveOps (Hackathon Software), Volitions (Chain-Prompt Agents)
+### TACo Roadmap
+| Phase | Focus Areas | Description |
+|-------|-------------|-------------|
+| **Now** | ADHD | Relationships + Productivity |
+| | Empowered to Act | Legal |
+| **Next** | Community Resources | Outreach programs |
+| | Mental Health | Digital Wellbeing |
+| **Later** | Health & Wellness | General wellness applications |
+| | Human Resources | Recruiting solutions |
+| | Dating | Relationship platforms |
+| **Moonshots** | Data Custody | User data ownership |
+| | Adaptive Data | Morphing data structures |
+| | Audio Recording | Recording software platform |
+| | TACo App Launcher | Native launcher application |
+| **Internal** | LiveOps | Hackathon software |
+| | Volitions | Chain-prompt agents |
 
 ### 🌟 Featured Initiatives
 
