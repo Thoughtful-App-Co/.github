@@ -18,12 +18,15 @@ We're an open contribution venture studio creating applications that respect you
 | | Anti-Hero Application Patterns | Weaponize "negative" or dark patterns for good; applications should help basic human psychology and respect individual's "true nature" |
 | | Simple & Artistic Design | Design influenced by UX/UI best practices while respecting the art of design |
 | | Phone As a Server | Phone serves the individual rather than absorbing them; moonshots include wearables (haptics, audio, "dumb" screens) and notifications to increase reality time |
+| | Aggresive Omnichannel Design | We want to use text, phone calls, even mail and events to help broach generational gaps, as well as different focus systems and lifestyle choices|
 | **Business Philosophy** | The New Bundle | Marketplace allowing individuals to pick up and drop apps, countering anti-competitive bundles (Adobe/Microsoft) |
 | | Build for Blue Oceans | Always seek new ideas serving market needs based on intrinsic value (not investor dollar value) |
 | | Alpha to Omega App Cycles | Apps serve their purpose then phase out; embrace natural lifecycle |
+| | Community Sourced | Rely on the community and like-minded sponsors who enable us to provide services |
 | | Alpha to Omega Growth | Believe in natural life and death of companies rather than endless growth |
 | **Technology Philosophy** | Adopt Local First Principles | Enable local-first principles for data custody |
 | | Open to Close(ish) Source | May maintain select open-source elements based on strategic considerations |
+| | Dumber Technology | Using omnichannel design, phone as a server and voice functions to help reduce harmful screen time. | 
 | **Community Philosophy** | Transparent Funding | Explore community participation opportunities and compensation models that align with project goals |
 | | New Hiring Models | May leverage various talent discovery methods including hackathons and open-source contributions |
 | | Incentivize Open-Source Concept | Explore incentive models for community participation as deemed beneficial |
@@ -31,6 +34,7 @@ We're an open contribution venture studio creating applications that respect you
 | | Contributor Agreements | Participation terms determined on per-project basis, with appropriate agreements as necessary |
 | | Revenue Sharing | Compensation and revenue models structured at company discretion to ensure sustainability |
 | | Platform Governance | Marketplace rules, app acceptance, and removal policies determined by TACo leadership |
+| | Never Enshitify | Just don't make the product worse to extract more wealth. Not cool. |
 | | Data Rights | While supporting local-first principles, TACo maintains necessary rights to operational and aggregate data |
 
 ### 🚀 Current Projects
@@ -47,16 +51,14 @@ We're an open contribution venture studio creating applications that respect you
 ### TACo Roadmap
 | Phase | Focus Areas | Description |
 |-------|-------------|-------------|
-| **Now** | ADHD | Relationships + Productivity |
-| | Empowered to Act | Legal |
-| **Next** | Community Resources | Outreach programs |
+| **Now** | ADHD | Relationships + Productivity | Career Management |
+| | Empowered to Act | Legal | Family Management 
+| **Next** | Health and Wellness | 
 | | Mental Health | Digital Wellbeing |
-| **Later** | Health & Wellness | General wellness applications |
-| | Human Resources | Recruiting solutions |
+| **Later** | Human Resources | Recruiting Solutions | Community Resources | Outreach programs |
 | | Dating | Relationship platforms |
 | **Moonshots** | Data Custody | User data ownership |
-| | Adaptive Data | Morphing data structures |
-| | Audio Recording | Recording software platform |
+| | Adaptive Data | Morphing data structures |Recording software platform |
 | | TACo App Launcher | Native launcher application |
 | **Internal** | LiveOps | Hackathon software |
 | | Volitions | Chain-prompt agents |
