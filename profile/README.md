@@ -1,8 +1,9 @@
 #  The Thoughtful App Company
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Mission-Technology%20That%20Serves-brightgreen" alt="Mission Badge"/>
-  <img src="https://img.shields.io/badge/Open%20Contribution-100%25-blue" alt="Open Contribution Badge"/>
+  <img src="https://img.shields.io/badge/Mission-Technology%20That%20Serves-gold" alt="Mission Badge"/>
+  <img src="https://img.shields.io/badge/Open%20Contribution-100%25-lightgreen" alt="Open Contribution Badge"/>
+   <img src="https://img.shields.io/badge/Community-Funded-lightblue" alt="User Funded Badge"/>
   <img src="https://img.shields.io/badge/Community-Driven-orange" alt="Community Badge"/>
 </div>
 
