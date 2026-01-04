@@ -2,9 +2,9 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Mission-Technology%20That%20Serves-gold" alt="Mission Badge"/>
-  <img src="https://img.shields.io/badge/Open%20Contribution-100%25-lightgreen" alt="Open Contribution Badge"/>
-   <img src="https://img.shields.io/badge/Community-Funded-lightblue" alt="User Funded Badge"/>
-  <img src="https://img.shields.io/badge/Community-Driven-orange" alt="Community Badge"/>
+  <img src="https://img.shields.io/badge/Community%20Funded-100%25-lightgreen" alt="Open Contribution Badge"/>
+   <img src="https://img.shields.io/badge/Open-Contribution-lightblue" alt="User Funded Badge"/>
+  <img src="https://img.shields.io/badge/Local First-Driven-orange" alt="Community Badge"/>
 </div>
 
 ## Building Technology That Enables, Not Enslaves
@@ -70,8 +70,8 @@ We're an open contribution venture studio creating applications that respect you
 ####  Thoughtful Tech Education & Build
 - Teaching developers to build ethical, user-respecting applications.
 
-####  Community Funding Rounds
-- Transparent, democratic funding for mission-aligned projects.
+####  Community Funding
+- Similar to Obsidian, we will focus on 1) never enshitifiy 2)community rounds 3)for community, provided by community
 
 ####  Building With Companies as Sponsors
 - Checking with Vendors to sponsor apps and hackathons to tie to tech stack 
