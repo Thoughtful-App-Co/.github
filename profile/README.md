@@ -1,5 +1,4 @@
-#  The Thoughtful App Company
-
+#  MANIFESTO
 <div align="center">
   <img src="https://img.shields.io/badge/Mission-Technology%20That%20Serves-gold" alt="Mission Badge"/>
   <img src="https://img.shields.io/badge/Community%20Funded-100%25-lightgreen" alt="Open Contribution Badge"/>
