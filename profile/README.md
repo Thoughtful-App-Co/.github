@@ -8,7 +8,7 @@
 
 ## Building Technology That Enables, Not Enslaves
 
-We're an open contribution venture studio creating applications that respect your time, attention, and autonomy. Technology should enhance life, not hijack it. Our intent is to use this next sesmic shift in code mechanis propelled by LLM code agents to take back 
+We're an open contribution venture studio creating applications that respect your time, attention, and autonomy. Technology should enhance life, not hijack it. Our intent is to use this next sesmic shift in code accleration and digital technology enablement propelled by LLM code agents to take back user's times and repurpose digital/virtual time, so we can reclaim it for better applications in life. 
 
 ### TACo Mission Statement
 | Philosophy | Mission/Goal | Description |
