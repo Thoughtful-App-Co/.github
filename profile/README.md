@@ -35,22 +35,13 @@ We're an open contribution venture studio creating applications that respect you
 | | Platform Governance | Marketplace rules, app acceptance, and removal policies determined by TACo leadership |
 | | Never Enshitify | Just don't make the product worse to extract more wealth. Not cool. |
 | | Data Rights | While supporting local-first principles, TACo maintains necessary rights to operational and aggregate data |
-
-### 🚀 Current Projects
-
-<!-- This will auto-populate with your pinned repositories -->
-
-### 🤝 Get Involved
-
-- 📖 Read our [Contributing Guidelines](https://github.com/thoughtful-app-company/.github/blob/main/CONTRIBUTING.md)
-- 💡 Browse [Good First Issues](https://github.com/orgs/thoughtful-app-company/projects)
-- 🎉 Join our [Monthly Hackathons](https://github.com/thoughtful-app-company/hackathon-hub)
-- 💬 Join our [Discussions](https://github.com/orgs/thoughtful-app-company/discussions)
+| **Staffing Philosophy** | Age of Opinion and SME + Usability | I want to hire staff that are actual subject matter experts w/ design and developers dedicated to making these realities. I want a lawyer, a industrial psychology, event planner, etc. to build. |
+| | Dunning-Krueger Effect | Many people are going to think AI empowers them to build things. That is great. But you aren't the best person to build a personal CRM. It still doesn't work like that. Information architects, developers, product designers combined will build a better product longer term. Products need to be built to help people become better, not just scratch the surface on their current understanding on things.|
 
 ### TACo Roadmap
 | Phase | Focus Areas | Description |
 |-------|-------------|-------------|
-| **Now** | ADHD | Relationships + Productivity | Career Management |
+| **Now** | ADHD | Relationships + Productivity | Time Management |
 | | Empowered to Act | Legal | Family Management 
 | **Next** | Health and Wellness | 
 | | Mental Health | Digital Wellbeing |
