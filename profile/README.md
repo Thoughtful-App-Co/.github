@@ -18,6 +18,7 @@ We're a human-first local-first application studio that respects your time, atte
 | | Simple & Artistic Design | Design influenced by UX/UI best practices while respecting the art of design |
 | | Phone As a Server | Phone serves the individual rather than absorbing them; moonshots include wearables (haptics, audio, "dumb" screens) and notifications to increase reality time |
 | | Aggresive Omnichannel Design | We want to use text, phone calls, even mail and events to help broach generational gaps, as well as different focus systems and lifestyle choices|
+| | Jump into Product | No landing pages, no theories on product, no paywalls to usage, free users w/o registration! Jump into product directly, and let user get into the mix immediately|
 | **Business Philosophy** | The New Bundle | Marketplace allowing individuals to pick up and drop apps, countering anti-competitive bundles (Adobe/Microsoft) |
 | | Build for Blue Oceans | Always seek new ideas serving market needs based on intrinsic value (not investor dollar value) |
 | | Alpha to Omega App Cycles | Apps serve their purpose then phase out; embrace natural lifecycle |
