@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Version 0.2.0-lightgrey" alt="Version Control Badge"/>
 </div>
 
-## Disrupting Incumbents. Building Commercial Products With AI.
+## WHO
  
 Thoughtful App Co. (TACo) is A24 for software development. We build ai-native agentic software that operates as company to combat against obstructionist incumbents — the extractors, the gatekeepers , the dark-pattern exploiters by fusing real-world omnichannel experiences with grassroots community ownership and democratizing data autonomy.
  
@@ -20,7 +20,7 @@ LLM code acceleration has collapsed the cost of building software. Incumbent moa
 | | Ephemeral Design | understanding that since we are able to now create on whim, we can pull and create based on user's UI needs in that moment |
 | | Phone As a Server | Phone serves the individual rather than absorbing them; moonshots include wearables (haptics, audio, "dumb" screens) and notifications to increase reality time |
 | | AI as Analog Activtors | world experiences are not digital, they are analog. We can use text, phone calls, email and even use physical mail and events to help broach gaps of knowledge, as well as different focus systems and lifestyle choices|
-| | Jump into Product | No landing pages, no theories on product, no paywalls to usage, free users w/o registration! The ability to jump into product directly, and give user's opportunites to use applications when theisable.
+| | Jump into Product | Allow users to use your product, without too many extra steps. | 
 | **Business Philosophy** | The New Bundle | Marketplace allowing individuals to pick up and drop apps, countering anti-competitive bundles (Adobe/Microsoft) |
 | | Build for Blue Oceans | Always seek new ideas serving market needs based on intrinsic value (not investor dollar value) |
 | | Data Rewards Programs | No Crypto, just rewards programs that could be attributed to discounted software, events and giveaways. Reward our users for data they provide and be open about it| 
