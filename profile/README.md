@@ -9,7 +9,7 @@
 
 ## Disrupting Incumbents. Building Commercial Products With AI.
  
-Thoughtful App Co. (TACo) is a commercial AI product studio. We build against obstructionist incumbents — the extractors, the gatekeepers , the dark-pattern exploiters by fusing real-world omnichannel experiences with grassroots community ownership and democratizing data autonomy.
+Thoughtful App Co. (TACo) is A24 for software development. We build ai-native agentic software that operates as company to combat against obstructionist incumbents — the extractors, the gatekeepers , the dark-pattern exploiters by fusing real-world omnichannel experiences with grassroots community ownership and democratizing data autonomy.
  
 LLM code acceleration has collapsed the cost of building software. Incumbent moats no longer hold: proprietary data they didn't earn, bundled suites no one wants whole, and UX patterns designed to extract rather than serve. We move into those cracks. Technology should enable, not enslave — and the most effective way to enforce that today is to ship better commercial products than the incumbents and let users walk. There is a sesmic shift in code accleration and digital technology enablement propelled by LLM code agents to take back user's times and repurpose digital/virtual time, so we can reclaim it for better applications in life. 
 
@@ -48,7 +48,3 @@ LLM code acceleration has collapsed the cost of building software. Incumbent moa
 | **Thoughtful App Co** | thoughtfulapp.co | Investor / landing / studio identity. The face shown to capital and partners. |
  
 ---
-
----
-
-<sub>🤖 All our projects follow the [Thoughtful App Principles](https://github.com/thoughtful-app-company/manifesto)</sub>
