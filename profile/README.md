@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/Version 0.2.0-lightgrey" alt="Version Control Badge"/>
 </div>
 
+Autonomy | Attention | 
+
 ## WHO
  
 Thoughtful App Co. (TACo) is A24 for software development. We build ai-native agentic software that operates as company to combat against obstructionist incumbents — the extractors, the gatekeepers , the dark-pattern exploiters by fusing real-world omnichannel experiences with grassroots community ownership and democratizing data autonomy.
